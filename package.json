@@ -1,7 +1,6 @@
 {
-  "name": "PoolCristal",
+  "name": "poolcristal",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/NUNOminao/PoolCristal.git"
   },
-  "author": "",
+  "author": "nuno",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NUNOminao/PoolCristal.git"
@@ -20,5 +19,6 @@
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
     "gulp-watch": "^4.3.9"
-  }
+  },
+  "description": ""
 }
