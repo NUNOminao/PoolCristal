@@ -1,6 +1,2 @@
-node_modules
-._.DS_Store
-.sass-cache
-.sass-cache/*
-.__*
+bower_components
 
